@@ -1,6 +1,7 @@
 # Expense Tracker CLI
 
 **Expense Tracker CLI** is a command-line application developed in Java that allows you to efficiently manage your expenses. This project was created to enhance Java skills and provide a useful tool for expense tracking.
+This project is an inspiration of the page: https://roadmap.sh/projects/expense-tracker
 
 ## Features
 
